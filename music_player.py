@@ -18,7 +18,6 @@ prev_img = PhotoImage(file="prev-button.png")
 pause_img = PhotoImage(file="pause-button.png")
 rewind_img = PhotoImage(file="rewind.png")
 head = PhotoImage(file="music_image.png")
-os.chdir("D:\\Python-projects\\Music-Player\\songs")
 
 
 def changedir():
